@@ -1,11 +1,11 @@
 
 ### Um pouquinho sobre mim...
 
-  Olá, Sou Paulo Quirino, moro em Fortaleza – Ce, tenho 34 anos e sempre gostei de tecnologias, mas só conheci melhor a Ciência de Dados a pouco tempo, em função dos lockdowns durante a pandemia de covid-19, antes cursava Engenharia de Energias pela Unilab, na cidade de Acarape-Ce, atualmente estou no quarto semestre de 5, do curso de Big Data e Inteligência Analítica e já construindo meu portifólio, que em breve estará disponível por aqui. Eu sei o quão grandioso e importante é o estudo desta Ciência, e tenho certeza que associada as tecnologias adequadas irá levar a humanidade para um futuro extraordinário, então, eu quero contribuir na construção deste futuro!
+  Olá, Sou Paulo Quirino, moro em Fortaleza – Ce, tenho 34 anos, convivo a nove anos com meu companheiro Charles. sempre gostei de tecnologias, mas só conheci melhor a Ciência de Dados a pouco tempo, em função dos lockdowns durante a pandemia de covid-19, antes cursava Engenharia de Energias pela Unilab, na cidade de Acarape-Ce, atualmente estou no quarto semestre de 5, do curso de Big Data e Inteligência Analítica e já construindo meu portifólio, que em breve estará disponível por aqui. Eu sei o quão grandioso e importante é o estudo desta Ciência, e tenho certeza que associada as tecnologias adequadas irá levar a humanidade para um futuro extraordinário, então, eu quero contribuir na construção deste futuro!
 
 
 ## :mortar_board: :man_scientist: :microscope: :game_die:
-- Meu primeiro projeto pessoal **Sistema PDV do mercadinho ViAna**, Estou atualmente aprendendo **Aplicação de Big Data em Cloud** Trabalhando em um projeto de Graduação **Aplicação de Métodos de Aprendizagem de Máquina**  
+- Meu primeiro projeto pessoal **Sistema PDV do mercadinho ViAna**, Estou atualmente aprendendo **Git e Github** Trabalhando em um projeto de Graduação **Aplicação de Métodos de Aprendizagem de Máquina**  
 - Pergunte-me sobre **Machine Learning, Big Data, SQL, Python**
 
 - 👨‍💻 Aqui estará o link para meu portifólio [(Em Breve!)]((Em Breve!))
