@@ -5,7 +5,7 @@
 
 
 ## :mortar_board: :man_scientist: :microscope: :game_die:
-- Meu primeiro projeto pessoal **Sistema PDV do mercadinho ViAna**, Estou atualmente aprendendo **Git e Github** Trabalhando em um projeto de Graduação **Aplicação de Métodos de Aprendizagem de Máquina**  
+- Meu primeiro projeto pessoal **Sistema PDV do mercadinho ViAna**, Estou atualmente aprendendo **Git e Github** Trabalhando em um projeto de Graduação **[Aplicação de Métodos de Aprendizagem de Máquina](https://github.com/PauloQuirinoCD/Projeto_Salary/blob/main/projeto_aplica%C3%A7%C3%A3o_de_m%C3%A9todos_de_machine_learning(salary)_template.py)**  
 - Pergunte-me sobre **Machine Learning, Big Data, SQL, Python**
 
 - 👨‍💻 Aqui estará o link para meu portifólio [(Em Breve!)]((Em Breve!))
