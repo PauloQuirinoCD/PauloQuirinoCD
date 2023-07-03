@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/paulo quirino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo quirino" height="30" width="40" /></a>
 <a href="[https://kaggle.com/paulo quirino](https://www.kaggle.com/pauloquirinocd)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="paulo quirino" height="30" width="40" /></a>
-<a href="https://instagram.com/pauloquirinocd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pauloquirinocd" height="30" width="40" /></a>
+<a href="[https://instagram.com/pauloquirinocd](https://www.instagram.com/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pauloquirinocd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
