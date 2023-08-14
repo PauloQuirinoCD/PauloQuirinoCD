@@ -6,7 +6,7 @@
 
 ## :mortar_board: :man_scientist: :microscope: :game_die:
 - Estou atualmente aprendendo **Git e Github** Trabalhando em um projeto de Graduação
-- **[Aplicação de Métodos de Aprendizagem Máquina] https://github.com/PauloQuirinoCD/Projeto_Salary**  
+- [Aplicação de Métodos de Aprendizagem Máquina](https://github.com/PauloQuirinoCD/Projeto_Salary)
 - Pergunte-me sobre **Machine Learning, Big Data, SQL, Python**
 
 - 👨‍💻 Aqui estará o link para meu portifólio [(Em Breve!)]((Em Breve!))
