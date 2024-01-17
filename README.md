@@ -4,7 +4,7 @@
   Olá, Sou Paulo Quirino, moro em Fortaleza – Ce, tenho 35 anos, convivo a nove anos com meu companheiro Charles Nunes. sempre gostei de tecnologias, mas só conheci melhor a Ciência de Dados a pouco tempo em função dos lockdowns durante a pandemia de covid-19, antes cursava Engenharia de Energias pela Unilab, na cidade de Acarape-Ce, atualmente Formado em Big Data e Inteligência Analítica dando os primeiros passos na Ciência de Dados.
 
 ## :mortar_board: :man_scientist: :microscope: :game_die:
-- Estou atualmente aprendendo **Python** 
+- Estou atualmente aprendendo **Inglês** 
 - [Projeto acadêmico : Aplicação de Machine Learning](https://github.com/PauloQuirinoCD/Projeto_Salary)
 - [Projeto pessoal : Desenvolvimento de Sistema Ponte de Venda para Mercadinhos]
 - Pergunte-me sobre **O Universo dos Dados**
