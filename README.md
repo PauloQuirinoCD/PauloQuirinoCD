@@ -1,17 +1,17 @@
 
 ### Um pouquinho sobre mim...
 
-  Olá, Sou Paulo Quirino, moro em Fortaleza – Ce, tenho 35 anos, convivo a nove anos com meu companheiro Charles Nunes. sempre gostei de tecnologias, mas só conheci melhor a Ciência de Dados a pouco tempo em função dos lockdowns durante a pandemia de covid-19, antes cursava Engenharia de Energias pela Unilab, na cidade de Acarape-Ce, atualmente graduado no curso de Big Data e Inteligência Analítica e já construindo meu portifólio, que em breve estará disponível por aqui. Eu sei o quão grandioso e importante é o estudo desta Ciência, e tenho certeza que associada as tecnologias adequadas irá levar a humanidade para um futuro extraordinário, então, eu quero contribuir na construção deste futuro!
-
+  Olá, Sou Paulo Quirino, moro em Fortaleza – Ce, tenho 35 anos, convivo a nove anos com meu companheiro Charles Nunes. sempre gostei de tecnologias, mas só conheci melhor a Ciência de Dados a pouco tempo em função dos lockdowns durante a pandemia de covid-19, antes cursava Engenharia de Energias pela Unilab, na cidade de Acarape-Ce, atualmente Formado em Big Data e Inteligência Analítica dando os primeiros passos na Ciência de Dados.
 
 ## :mortar_board: :man_scientist: :microscope: :game_die:
-- Estou atualmente aprendendo **Git e Github** Trabalhando em um projeto de Graduação
-- [Aplicação de Métodos de Aprendizagem Máquina](https://github.com/PauloQuirinoCD/Projeto_Salary)
-- Pergunte-me sobre **Machine Learning, Big Data, SQL, Python**
+- Estou atualmente aprendendo **Python** 
+- [Projeto acadêmico : Aplicação de Machine Learning](https://github.com/PauloQuirinoCD/Projeto_Salary)
+- [Projeto pessoal : Desenvolvimento de Sistema Ponte de Venda para Mercadinhos]
+- Pergunte-me sobre **O Universo dos Dados**
 
 - 👨‍💻 Aqui estará o link para meu portifólio [(Em Breve!)]((Em Breve!))
 
-- 📫 Me contacta **pauloquirinods@gmail.com**
+- 📫 Me mande um E-mail:  **pauloqneto@gmail.com**
 
 - 📄 Meu currículo [(Em Breve!)]((Em Breve!))
 
