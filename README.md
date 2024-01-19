@@ -5,8 +5,8 @@
 
 ## :mortar_board: :man_scientist: :microscope: :game_die:
 - Estou atualmente aprendendo **Inglês** 
-- [Projeto acadêmico : Aplicação de Machine Learning](https://github.com/PauloQuirinoCD/Projeto_Salary)
-- [Projeto pessoal : Desenvolvimento de Sistema Ponte de Venda para Mercadinhos]
+- [Projeto acadêmico : Modelo Preditivo](https://github.com/PauloQuirinoCD/Projeto_Salary)
+- [Projeto pessoal : Sistema Ponte de Venda para Mercadinhos](https://github.com/PauloQuirinoCD/Mercadinhos.git)
 - Pergunte-me sobre **O Universo dos Dados**
 
 - 👨‍💻 Aqui estará o link para meu portifólio [(Em Breve!)]((Em Breve!))
