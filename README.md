@@ -4,9 +4,9 @@
   Olá, Sou Paulo Quirino, moro em Fortaleza – Ce, tenho 35 anos, convivo a nove anos com meu companheiro Charles Nunes. sempre gostei de tecnologias, mas só conheci melhor a Ciência de Dados a pouco tempo em função dos lockdowns durante a pandemia de covid-19, antes cursava Engenharia de Energias pela Unilab, na cidade de Acarape-Ce, atualmente Formado em Big Data e Inteligência Analítica dando os primeiros passos na Ciência de Dados.
 
 ## :mortar_board: :man_scientist: :microscope: :game_die:
-- Estou atualmente aprendendo **Inglês** 
-- [Projeto acadêmico : Modelo Preditivo](https://github.com/PauloQuirinoCD/Projeto_Salary)
-- [Projeto pessoal : Sistema Ponte de Venda para Mercadinhos](https://github.com/PauloQuirinoCD/MercadinhoViana)
+- ### Estou atualmente aprendendo **Inglês** , **Git**, **Python**
+- ### Projetos acadêmico : [Modelo Preditivo](https://github.com/PauloQuirinoCD/Projeto_Salary), [Calculadora](https://github.com/PauloQuirinoCD/CalculadoraFlet)
+- ### Projeto pessoal : [Sistema Ponte de Venda para Mercadinhos](https://github.com/PauloQuirinoCD/MercadinhoViana)
 - Pergunte-me sobre **O Universo dos Dados**
 
 - 👨‍💻 Aqui estará o link para meu portifólio [(Em Breve!)]((Em Breve!))
